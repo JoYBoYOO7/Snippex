@@ -23,7 +23,7 @@ Project Live at:(https://snippex.vercel.app/)
 - [**TypeScript**](https://www.typescriptlang.org) – Static typing for scalable
   apps
 - [**Tailwind CSS**](https://tailwindcss.com) – Utility-first CSS framework
-- [**ShadCN UI**](https://ui.shadcn.dev) – Radix-powered component library
+- [**ShadCN UI**](https://ui.shadcn.com/) – Radix-powered component library
   styled with Tailwind
 - [**Zustand**](https://github.com/pmndrs/zustand) – Simple and fast state
   management
