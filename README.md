@@ -1,8 +1,8 @@
-# Sinppix - Code Screenshot
+# Sinppex - Code Screenshot
 
 A powerful tool for sharing code snippets with additional features. Share beautiful screenshots of your code on your social media platforms.
 
-Project Live at: [https://snippix.vercel.app/](https://snippex.vercel.app/)
+Project Live at:(https://snippex.vercel.app/)
 
 ---
 
